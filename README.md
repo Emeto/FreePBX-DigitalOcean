@@ -7,13 +7,14 @@ This read-me contains information about a FreePBX image I generated for use insi
 
 ## Image information
 |                   |                                      |
-|--------------------------|-----------------------------------------|
-| Format                   | VDI                                     |
-| File Size (gzipped)      | ~ 1.8 GB                                |
-| File Size (uncompressed) | ~ 4.4 GB                                |
-| Asterisk version         | 13.22.0 (Includes Opus, Silk, and G729) |
-| FreePBX                  | 14.0.10.3                               |
-| OS                       | CentOS/RHEL 7.6.1810                    |
+|---------------------------|-----------------------------------------|
+| Format                    | VDI                                     |
+| File Size (gzipped)       | ~ 1.8 GB                                |
+| File Size (uncompressed)  | ~ 4.4 GB                                |
+| Asterisk version          | 13.22.0 (Includes Opus, Silk, and G729) |
+| FreePBX                   | 14.0.10.3                               |
+| OS                        | CentOS/RHEL 7.6.1810                    |
+| Keyboard Layout (Default) | English (US)                            |
 
 This image does already contains cloud-init.
 
