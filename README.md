@@ -17,7 +17,9 @@ This read-me contains information about a FreePBX image I generated for use insi
 
 This image does already contains cloud-init.
 
+
 Default root password : **SangomaDefaultPassword**
+
 **!!! Always change root default password after your instance has launched !!!**
 
 
