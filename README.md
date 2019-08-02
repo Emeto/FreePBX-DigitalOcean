@@ -19,6 +19,6 @@ This image does already contains cloud-init.
 
 
 ## Download link
-You can download the gzipped vdi file by following this link
+You can download the gzipped vdi file by following this link. If your cloud service provider supports creation of computing resources with an image from an external URL, you can also use this link directly.
 
 https://dl.emetophobic.com/freepbx-vdi/FreePBX-SNG7-PBX-64bit-1904-stable.gz
