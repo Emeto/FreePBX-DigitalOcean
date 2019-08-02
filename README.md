@@ -17,6 +17,9 @@ This read-me contains information about a FreePBX image I generated for use insi
 
 This image does already contains cloud-init.
 
+Default root password : **SangomaDefaultPassword**
+**!!! Always change root default password after your instance has launched !!!**
+
 
 ## Download link
 You can download the gzipped vdi file by following this link. If your cloud service provider supports creation of computing resources with an image from an external URL, you can also use this link directly.
